@@ -35,7 +35,7 @@ func main() {
 
 	// 声明多个变量
 	var n1, n2, n3 int
-	fmt.Println(n1, n2, n3)
+	fmt.Println("====", n1, n2, n3)
 
 	name1 := true
 	println(name1)
